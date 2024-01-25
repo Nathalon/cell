@@ -1,4 +1,4 @@
-## cell
+## Cell
 
 **Compile with gcc `$ gcc cell.c --output cell`**  
 **Set up a nc listener to the port you desire `$ nc -lvp 9999`**  
